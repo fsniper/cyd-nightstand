@@ -1,0 +1,14 @@
+# ESP-IDF
+build/
+sdkconfig
+sdkconfig.old
+managed_components/
+
+# Secrets
+secrets.h
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/

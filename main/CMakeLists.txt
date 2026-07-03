@@ -1,0 +1,16 @@
+idf_component_register(SRCS "main.c" "ui.c" "wifi_sntp.c" "auto_dimming.c" "sd_card.c" "ha_sensor.c"
+                    INCLUDE_DIRS "."
+                    EMBED_FILES
+                    "icons/icon_0.png"
+                    "icons/icon_1.png"
+                    "icons/icon_2.png"
+                    "icons/icon_3.png"
+                    "icons/icon_4.png"
+                    "icons/icon_5.png"
+                    "icons/icon_6.png"
+                    "icons/icon_7.png"
+                    "icons/icon_8.png"
+                    "icons/icon_9.png"
+                    "icons/icon_10.png"
+                    "icons/icon_11.png"
+                    )
