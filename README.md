@@ -2,6 +2,8 @@
 
 *✨ Vibe coded by Gemini ✨*
 
+![Running CYD Smart Clock](photo-of-device.jpg)
+
 A fully custom, highly optimized smart nightstand clock built natively in C using ESP-IDF and LVGL for the "Cheap Yellow Display" (CYD) ESP32-2432S028R development board. 
 
 This firmware transforms the CYD into a beautiful, self-hosted smart dashboard that features SNTP timekeeping, auto-dimming, Met Éireann weather tracking, Home Assistant sensor integration, and a private Immich photo sync engine.
